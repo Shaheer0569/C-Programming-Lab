@@ -1,2 +1,6 @@
-# C-Programming-Lab
-This is my C programming lab repository. I will be storing my C code here
+# My favourite languages are:
+* C
+* C++
+* PYTHON
+* JAVA
+* SCRATCH
